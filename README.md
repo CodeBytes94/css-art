@@ -3,7 +3,7 @@ You can find all the code from our CSS shapes series here!
 
 | Lesson | Description | Link
 | :---: | ----- | --- |
-| 01 | Background Waves | [View Code]
+| 01 | Background Waves | [View Code](https://github.com/CodeBytes94/css-shapes/blob/main/background-waves/background-waves.html)
 
 For full tutorials visit our webpage or YouTube channel!
 - Website: https://codebytesized.com/
