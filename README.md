@@ -7,7 +7,7 @@ You can find all the code from our CSS shapes series here!
 
 For full tutorials visit our webpage or YouTube channel!
 - Website: https://codebytesized.com/
-- YouTube: 
+- YouTube: https://www.youtube.com/playlist?list=PLvvVSYZ1bhvK0FwtQ0WXZWjR8Z9bElYZn
 
 Follow us for more web development inspiration!
 - Instagram: https://www.instagram.com/codebytes._/
