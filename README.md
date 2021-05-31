@@ -7,7 +7,7 @@ You can find all the code from our CSS shapes series here!
 | 02 | Background Waves | [View Code](https://github.com/CodeBytes94/css-shapes/blob/main/background-waves/background-waves.html)
 
 For full tutorials visit our webpage or YouTube channel!
-- Website: https://codebytesized.com/
+- Website: https://codebytes.blog/
 - YouTube: https://www.youtube.com/playlist?list=PLvvVSYZ1bhvK0FwtQ0WXZWjR8Z9bElYZn
 
 Follow us for more web development inspiration!
