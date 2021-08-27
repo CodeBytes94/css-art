@@ -1,5 +1,5 @@
-# CSS Shapes with CodeBytes
-You can find all the code from our CSS shapes series here!
+# CSS Art with CodeBytes
+You can find all the code from our CSS art series here!
 
 | Lesson | Description | Link
 | :---: | ----- | --- |
