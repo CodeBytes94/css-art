@@ -6,6 +6,7 @@ You can find all the code from our CSS art series here!
 | 01 | Basic Shapes | [View Code](https://github.com/CodeBytes94/css-shapes/tree/main/basic-shapes)
 | 02 | Background Waves | [View Code](https://github.com/CodeBytes94/css-shapes/blob/main/background-waves/background-waves.html)
 | 03 | TikTok Logo | [View Code](https://github.com/CodeBytes94/css-art/tree/main/tiktok-logo)
+| 04 | Insta Logo | [View Code](https://github.com/CodeBytes94/css-art/tree/main/insta-logo)
 
 For full tutorials visit our webpage or YouTube channel!
 - Website: https://codebytes.blog/
