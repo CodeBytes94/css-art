@@ -9,8 +9,7 @@ You can find all the code from our CSS art series here!
 | 04 | TikTok Logo | [View Code](https://github.com/CodeBytes94/css-art/tree/main/tiktok-logo)
 | 05 | Insta Logo | [View Code](https://github.com/CodeBytes94/css-art/tree/main/insta-logo)
 
-For full tutorials visit our webpage or YouTube channel!
-- Website: https://codebytes.blog/
+For full tutorials visit our YouTube channel!
 - YouTube: https://www.youtube.com/playlist?list=PLvvVSYZ1bhvK0FwtQ0WXZWjR8Z9bElYZn
 
 Follow us for more web development inspiration!
