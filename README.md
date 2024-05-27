@@ -8,6 +8,7 @@ You can find all the code from our CSS art series here!
 | 03 | Background Waves | [View Code](https://github.com/CodeBytes94/css-shapes/blob/main/background-waves/background-waves.html)
 | 04 | TikTok Logo | [View Code](https://github.com/CodeBytes94/css-art/tree/main/tiktok-logo)
 | 05 | Insta Logo | [View Code](https://github.com/CodeBytes94/css-art/tree/main/insta-logo)
+| 06 | Clip Image to Text | [View Code](https://github.com/CodeBytes94/css-art/tree/main/clip-image-to-text)
 
 For full tutorials visit our YouTube channel!
 - YouTube: https://www.youtube.com/playlist?list=PLvvVSYZ1bhvK0FwtQ0WXZWjR8Z9bElYZn
