@@ -12,12 +12,12 @@ body {
     justify-content: center;
     align-items: center;
     background-color: #191919;
-}
-
-.text {
     font-family: "Poetsen One", sans-serif;
     font-weight: 400;
     font-style: normal;
+}
+
+.text {
     font-size: 10rem;
     text-align: center;
     color: transparent;
