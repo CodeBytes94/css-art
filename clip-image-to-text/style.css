@@ -6,13 +6,6 @@
     padding: 0;
 }
 
-.text {
-    font-family: "Poetsen One", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    font-size: 10rem;
-}
-
 body {
     min-height: 100vh;
     display: flex;
@@ -22,6 +15,10 @@ body {
 }
 
 .text {
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 10rem;
     text-align: center;
     color: transparent;
     background-image: url('./assets/sea.jpg');
